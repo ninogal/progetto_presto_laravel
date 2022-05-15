@@ -1,0 +1,27 @@
+.footer-custom {
+    background-image: linear-gradient(to right, rgb(23,178,196), rgb(8, 41, 72));
+}
+
+.b-color1 {
+    background-color: #ac2bac;
+    border:1px solid #ac2bac;
+    border-radius: 25%;
+}
+
+.b-color2 {
+    background-color: #55acee;
+    border:1px solid #55acee;
+    border-radius: 25%;
+}
+
+.b-color3::before {
+    background-color: #0082ca;
+    border: 1px solid #0082ca;
+    border-radius: 25%;
+}
+
+#link-lavora {
+    color: #fff;
+    padding: 5px;
+    border: 1px solid #fff;
+}

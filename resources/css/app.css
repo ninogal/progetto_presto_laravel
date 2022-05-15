@@ -1,0 +1,8 @@
+@import '~bootstrap';
+@import 'navStyle';
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import 'style';
+@import 'footerStyle';
+@import 'card';
+@import 'main-search';
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400;500;600;700&display=swap');
